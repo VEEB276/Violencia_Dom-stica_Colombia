@@ -1,5 +1,5 @@
 # Violencia_Domestica_Colombia
-<img src="Presentacion/BANNER%20IAA.jpg/BANNER%20IAA.jpg">
+<img src="Presentacion/BANNER%20IAA.jpg">
 
 ## Autores:
 
