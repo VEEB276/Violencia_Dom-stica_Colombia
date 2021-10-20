@@ -15,7 +15,7 @@ https://www.kaggle.com/oscardavidperilla/domestic-violence-in-colombia
 DecisionTreeRegressor, RandomForestRegressor.
 
 ## Enlace del código
-https://colab.research.google.com/drive/1OgcKAAyEguEOjy8DHYBt5tBaaMVYy43n#scrollTo=95yjXyzR9JFY
+https://colab.research.google.com/drive/1jlk6w3Oulq0h6Ny_lmIl9PAQGjQbhRuJ?usp=sharing
 
 ## Enlace del video
 https://youtu.be/0AlVkTLYKFo
